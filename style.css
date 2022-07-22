@@ -4,20 +4,24 @@ body {
     max-width: 960px;
     margin: auto;
 }
+
 h1 {
     font-size: 3em;
     padding-top: 1em;
     padding-bottom: 1em;
 }
+
 h2 {
     font-size: 1.8em;
     padding-bottom: 1em;
 }
+
 main {
     display: grid;
     grid-template-columns: 40% 60%;
     margin-top: 3em;
 }
+
 header {
     text-align: center;
     margin: auto 2em;
@@ -38,14 +42,15 @@ p {
 hr {
     border: none;
     background-color: lightgray;
-    height: 1px;
+    height: 5px;
 }
 
-h1, h2 {
+h1,
+h2 {
     font-weight: 100;
     margin-bottom: 0;
 }
 
 #mainLeft {
-    border-right: 1px solid lightgray;
+    border-right: 3px solid lightgray;
 }

@@ -54,3 +54,13 @@ h2 {
 #mainLeft {
     border-right: 3px solid lightgray;
 }
+
+#inBetween {
+    border: none;
+    background-color: lightgray;
+    height: 3px;
+}
+
+#GITHUB {
+    width: 200pt;
+}
